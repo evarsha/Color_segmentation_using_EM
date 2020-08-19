@@ -56,7 +56,5 @@ To run the uploaded python scripts, the required video should be present in the 
 3. Output generated - https://drive.google.com/open?id=1Rz-nhmkflnfC9S4lGn5yjavLLXGcBju-
 
 
-The team members are: 
-1. Raghav Nandwani
-2. Sanket Goyal
-3. Varsha Eranki
+Team member: Raghav Nandwani
+
